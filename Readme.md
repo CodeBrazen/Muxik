@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/ShivaBhattacharjee/Muxik">
-    <img src="https://github.com/ShivaBhattacharjee/Muxik/assets/95211406/299e717b-af55-4722-a663-b9b65c90940d" alt="Logo" width="100px" >
+  <a href="https://github.com/CodeBrazen/Muxik">
+    <img src="https://github.com/CodeBrazen/Muxik/assets/95211406/299e717b-af55-4722-a663-b9b65c90940d" alt="Logo" width="100px" >
   </a>
 <br/>
   <h3 align="center">Muxik</h3>
@@ -10,9 +10,9 @@
     <br/>
     <a href="https://muxik.netlify.app/">View Demo</a>
     .
-    <a href="https://github.com/ShivaBhattacharjee/Muxik/issues">Report Bug</a>
+    <a href="https://github.com/CodeBrazen/Muxik/issues">Report Bug</a>
     .
-    <a href="https://github.com/ShivaBhattacharjee/Muxik/issues">Request Feature</a>
+    <a href="https://github.com/Cod eBrazen/Muxik/issues">Request Feature</a>
   </p>
 </p>
 
