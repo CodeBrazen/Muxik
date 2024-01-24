@@ -134,9 +134,9 @@ Thank you for your cooperation, and we look forward to hearing from you!
 
 ## License
 
-Distributed under GNU GENERAL PUBLIC LICENSE . See [LICENSE](https://github.com/ShivaBhattacharjee/Muxik/blob/main/LICENSE) for more information.
+Distributed under GNU GENERAL PUBLIC LICENSE . See [LICENSE](https://github.com/CodeBrazen/Muxik/blob/main/LICENSE) for more information.
 
 ## Authors
 
-* **Shiva Bhattacharjee** - [Shiva Bhattacharjee](https://github.com/ShivaBhattacharjee) 
+* **Code Brazen** - [Code Brazen](https://github.com/CodeBrazen) 
 
