@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/ShivaBhattacharjee/Muxik">
-    <img src="https://github.com/ShivaBhattacharjee/Muxik/assets/95211406/299e717b-af55-4722-a663-b9b65c90940d" alt="Logo" width="100px" >
+  <a href="https://github.com/CodeBrazen/Muxik">
+    <img src="https://github.com/CodeBrazen/Muxik/assets/95211406/299e717b-af55-4722-a663-b9b65c90940d" alt="Logo" width="100px" >
   </a>
 <br/>
   <h3 align="center">Muxik</h3>
@@ -10,9 +10,9 @@
     <br/>
     <a href="https://muxik.netlify.app/">View Demo</a>
     .
-    <a href="https://github.com/ShivaBhattacharjee/Muxik/issues">Report Bug</a>
+    <a href="https://github.com/CodeBrazen/Muxik/issues">Report Bug</a>
     .
-    <a href="https://github.com/ShivaBhattacharjee/Muxik/issues">Request Feature</a>
+    <a href="https://github.com/CodeBrazen/Muxik/issues">Request Feature</a>
   </p>
 </p>
 
@@ -42,7 +42,7 @@
 
 ## About The Project
 
-![Screenshot (965)](https://github.com/ShivaBhattacharjee/Muxik/assets/95211406/e5ad8954-efe7-4c5f-88a9-e175e6d8285e)
+![Screenshot (965)](https://github.com/CodeBrazen/Muxik/assets/95211406/e5ad8954-efe7-4c5f-88a9-e175e6d8285e)
 
 Muxik is a music streaming / downloading site that offers a vast library for streaming and downloading. With a user-friendly interface, you can easily find your favorite song and stream them in high-definition quality. Our platform is updated regularly with the songs, so you can stay up-to-date with your favorite songs.Muxik is the go-to destination for audiophiles who want to stream or download their favorite music anytime, anywhere.
 
@@ -67,7 +67,7 @@ Muxik is built using ReactJs and vanilla Css
 
 ### Installation
 ```sh
-git clone https://github.com/ShivaBhattacharjee/Muxik.git
+git clone https://github.com/CodeBrazen/Muxik.git
   ```
   ```
   cd Muxik
@@ -83,31 +83,31 @@ git clone https://github.com/ShivaBhattacharjee/Muxik.git
 ## Host your own 
 * ## Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FShivaBhattacharjee%2FMuxik)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FCodeBrazen%2FMuxik)
 <br/>
 <br/>
 
 * ## Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ShivaBhattacharjee/Muxik)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CodeBrazen/Muxik)
 <br/>
 <br/>
 
 * ## Render
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ShivaBhattacharjee/Muxik)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/CodeBrazen/Muxik)
 
 
 ### Backend 
 
 <b>Backed logic for registration and other curd related function can be found here </b>
-* [Backend in NodeJs](https://github.com/ShivaBhattacharjee/Muxik-backend)
+* [Backend in NodeJs](https://github.com/CodeBrazen/Muxik-backend)
 
 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/ShivaBhattacharjee/Muxik/issues) to discuss it
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/CodeBrazen/Muxik/issues) to discuss it
 
 * Please make sure you check your spelling and grammar.
 
@@ -125,7 +125,7 @@ Wanna contribute to Muxik ?
 
 ## Raising an issue
 
-If you're experiencing any problems with Muxik, please be sure to review our [issue template](https://github.com/ShivaBhattacharjee/Muxik/tree/main/.github/ISSUE_TEMPLATE) before opening a new issue. The template includes a list of questions and prompts that will help us better understand the issue you're experiencing, and it will ensure that we have all of the necessary information to investigate the problem.
+If you're experiencing any problems with Muxik, please be sure to review our [issue template](https://github.com/CodeBrazen/Muxik/tree/main/.github/ISSUE_TEMPLATE) before opening a new issue. The template includes a list of questions and prompts that will help us better understand the issue you're experiencing, and it will ensure that we have all of the necessary information to investigate the problem.
 
 We kindly ask that you provide as much detail as possible when submitting an issue, including steps to reproduce the problem, any error messages that you have seen, and any other relevant information. This will help us to identify and fix the issue more quickly.
 
@@ -134,9 +134,9 @@ Thank you for your cooperation, and we look forward to hearing from you!
 
 ## License
 
-Distributed under GNU GENERAL PUBLIC LICENSE . See [LICENSE](https://github.com/ShivaBhattacharjee/Muxik/blob/main/LICENSE) for more information.
+Distributed under GNU GENERAL PUBLIC LICENSE . See [LICENSE](https://github.com/CodeBrazen/Muxik/blob/main/LICENSE) for more information.
 
 ## Authors
 
-* **Shiva Bhattacharjee** - [Shiva Bhattacharjee](https://github.com/ShivaBhattacharjee) 
+* **CodeBrazen** - [CodeBrazen](https://github.com/CodeBrazen) 
 
